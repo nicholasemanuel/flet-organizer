@@ -75,4 +75,4 @@ def main(page: ft.Page):
         spacing=10,
     )
 
-ft.app(target=main, view=ft.WebWindow(title="Organizador de Arquivos"))
+ft.app(target=main)
